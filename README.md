@@ -1,6 +1,6 @@
 # five-nuxt-example
 
-> 基于 [Nuxt.js](https://nuxtjs.org)) 框架使用 **Five** 示例，仅供参考。
+> 基于 [Nuxt.js](https://nuxtjs.org) 框架使用 **Five** 示例，仅供参考。
 > 跟 **Five** 相关源码位置：`components/Tutorial.vue`。
 
 ## Build Setup
