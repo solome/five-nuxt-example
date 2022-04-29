@@ -16,8 +16,8 @@
 
 <script>
 import {Five, parseWork} from '@realsee/five'
-import PanoFloorplanRadarPlugin from '@realsee/dnalogel/plugins/floorplan/PanoFloorplanRadarPlugin'
-import TopviewFloorplanPlugin from '@realsee/dnalogel/plugins/floorplan/TopviewFloorplanPlugin'
+import PanoFloorplanRadarPlugin from '@realsee/dnalogel/libs/floorplan/PanoFloorplanRadarPlugin'
+import TopviewFloorplanPlugin from '@realsee/dnalogel/libs/floorplan/TopviewFloorplanPlugin'
 
 import {data} from './data'
 
